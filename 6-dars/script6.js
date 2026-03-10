@@ -163,4 +163,3 @@
     // console.log(Boolean(null));
 
 
-    console.log("salom")
